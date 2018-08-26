@@ -219,130 +219,87 @@ http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4129.ts
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4127.ts
 #EXTINF:-1,USA: TBN HD
 https://watch.tbn.tv/videos/tbn-live
-#EXTINF:1 group-title="(US) United States",A&E | HD
+#EXTINF:1 ,A&E | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3585.m3u8
-#EXTINF:0 group-title="(US) United States",A&E TV | HD
+#EXTINF:1 ,A&E TV | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5240.m3u8
-#EXTINF:0 group-title="(US) United States",ALBANIAN TV OF | SD
+#EXTINF:1 ,ALBANIAN TV OF | SD
 http://stream.shqiptv.com:7080/altvusa/index.m3u8
-#EXTINF:0 group-title="(US) United States",ANIMAL PLANET | HD
+#EXTINF:1 ,ANIMAL PLANET | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5406.m3u8
-#EXTINF:0 group-title="(US) United States",APNA PUNJAB | SD
+#EXTINF:1 ,APNA PUNJAB | SD
 http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(US) United States",AR MBC-DRAMA | SD
+#EXTINF:1 ,AR MBC-DRAMA SD
 http://swar.fannan.se:8000/live/zizo18040/54544452/7143.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD
+#EXTINF:1 ,BETTER HEALTH  SD
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD
+#EXTINF:1 ,BETTER LIFE  SD
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD
+#EXTINF:1 ,BETTER NATURE  SD
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BRAVO | SD
+#EXTINF:1 ,BRAVO | SD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2654.m3u8
-#EXTINF:0 group-title="(US) United States",CBS | HD
+#EXTINF:1 ,CBS HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7800.m3u8
-#EXTINF:0 group-title="(US) United States",CORNERSTONE TV | SD
+#EXTINF:1 ,CORNERSTONE TV | SD
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",CTNI ES | SD
+#EXTINF:1 ,CTNI ES | SD
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY CHANNEL | HD
+#EXTINF:1 ,DISCOVERY CHANNEL | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5408.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/352.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/355.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/363.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/367.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/374.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/375.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/379.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/380.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/386.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/395.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/552.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | HD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/768.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | SD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/482.m3u8
-#EXTINF:0 group-title="(US) United States",DISH | SD
-http://plexapps.dyndns.tv:8000/live/Anna03/1234/538.m3u8
-#EXTINF:0 group-title="(US) United States",ESPERANZA TV ES | SD
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",FOOD NETWORK | HD
+#EXTINF:1 ,FOOD NETWORK | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5403.m3u8
-#EXTINF:0 group-title="(US) United States",GEB | SD
+#EXTINF:1 ,GEB | SD
 http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",GEM TV | SD
+#EXTINF:1 ,GEM TV | SD
 http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
-#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD
+#EXTINF:1 ,GOOD LIFE 45 | SD
 http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",HBO | HD
+#EXTINF:1 ,HBO | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3592.m3u8
-#EXTINF:0 group-title="(US) United States",HBO | SD
+#EXTINF:1 ,HBO | SD
 http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3231.m3u8
-#EXTINF:0 group-title="(US) United States",HBO EAST | HD
+#EXTINF:1 ,HBO EAST | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5388.m3u8
-#EXTINF:0 group-title="(US) United States",HBO ZONE | HD
+#EXTINF:1 ,HBO ZONE | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5389.m3u8
-#EXTINF:0 group-title="(US) United States",HISTORY | SD
+#EXTINF:1 ,HISTORY | SD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5405.m3u8
-#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD
+#EXTINF:1 ,HOUSE OF YAHWEH | SD
 http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
-#EXTINF:0 group-title="(US) United States",INVESTIGATION DISCOVERY | SD
+#EXTINF:1 ,INVESTIGATION DISCOVERY | SD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5410.m3u8
-#EXTINF:0 group-title="(US) United States",JRES TV ES | SD
-http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
-#EXTINF:0 group-title="(US) United States",LIFE TIME | HD
+#EXTINF:1 ,LIFE TIME | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3588.m3u8
-#EXTINF:0 group-title="(US) United States",MIAMI TV | SD
+#EXTINF:1 ,MIAMI TV | SD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",MOUNTTAIN | SD
+#EXTINF:1 ,MOUNTTAIN | SD
 http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/68252.m3u8
-#EXTINF:0 group-title="(US) United States",MSNBC | HD
+#EXTINF:1 ,MSNBC | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8000.m3u8
-#EXTINF:0 group-title="(US) United States",NATIONAL GEOGRAPHIC | HD
+#EXTINF:1 ,NATIONAL GEOGRAPHIC | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5404.m3u8
-#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD
-http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",OSN CMC | SD
-http://3mb.top:8000/live/world0910y/shamsy/246.m3u8
-#EXTINF:0 group-title="(US) United States",QVC 2 | SD
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
-#EXTINF:0 group-title="(US) United States",SEC NETWORK | SD
+#EXTINF:1 ,SEC NETWORK | SD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4138.m3u8
-#EXTINF:0 group-title="(US) United States",SPIRIT TELEVISION | SD
+#EXTINF:1 ,SPIRIT TELEVISION | SD
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",SUN TV | SD
+#EXTINF:1 ,SUN TV | SD
 http://titiroq.xyz:25461/live/123412341234/123412341234/11848.m3u8
-#EXTINF:0 group-title="(US) United States",TELEDUNAMIS ES | SD
+#EXTINF:1 ,TELEDUNAMIS ES | SD
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD
+#EXTINF:1 ,TELEVISION ESNE | SD
 http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 4HD | SD
+#EXTINF:1,TSN 4HD | SD
 http://izgemma.ddns.net:8000/live/kris/kris/37790.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 4HD | SD
+#EXTINF:1 ,TSN 4HD | SD
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37790.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 5HD | SD
+#EXTINF:1 ,TSN 5HD | SD
 http://188.93.238.184:8000/live/chewy/chewy/37791.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 5HD | SD
+#EXTINF:1 ,TSN 5HD | SD
 http://izgemma.ddns.net:8000/live/kris/kris/37791.m3u8
-#EXTINF:0 group-title="(US) United States",UK@ 5 | SD
-http://188.93.238.184:8000/live/chewy/chewy/37156.m3u8
-#EXTINF:0 group-title="(US) United States",UK@ 5 | SD
-http://izgemma.ddns.net:8000/live/kris/kris/37156.m3u8
-#EXTINF:0 group-title="(US) United States",VICTORY TELEVISION NETWORK | SD
+#EXTINF:1 ,VICTORY TELEVISION NETWORK | SD
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",WGGS-TV | SD
+#EXTINF:1 ,WGGS-TV | SD
 https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",WWE | HD
+#EXTINF:1 ,WWE | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5184.m3u8
-
