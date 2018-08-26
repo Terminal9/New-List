@@ -219,15 +219,15 @@ http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4129.ts
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4127.ts
 #EXTINF:-1,USA: TBN HD
 https://watch.tbn.tv/videos/tbn-live
-#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+#EXTINF:1 group-title="(US) United States",*** AutoIPTV ***
 https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+#EXTINF:1 group-title="(US) United States",https://autoiptv.net
 https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",*** Playlists ***
+#EXTINF:1 group-title="(US) United States",*** Playlists ***
 https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+#EXTINF:1 group-title="(US) United States",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",A&E | HD
+#EXTINF:1 group-title="(US) United States",A&E | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3585.m3u8
 #EXTINF:0 group-title="(US) United States",A&E TV | HD
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5240.m3u8
