@@ -69,7 +69,7 @@ http://194.88.107.95:6204/live/Abas/Abas/10440.ts
 http://194.88.107.95:6204/live/Abas/Abas/10439.ts
 #EXTINF:-1,Us- Bein Sports
 http://194.88.107.95:6204/live/Abas/Abas/10646.ts
-#EXTINF:-1,Us- BET HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/150/2016/05/23105027/BETLogo_white_Filledin_RGB.jpg.png"Us- BET HD
 http://194.88.107.95:6204/live/Abas/Abas/10645.ts
 #EXTINF:-1,Us- Bloomberg US
 http://194.88.107.95:6204/live/Abas/Abas/10436.ts
