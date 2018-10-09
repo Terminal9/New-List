@@ -173,7 +173,7 @@ http://194.88.107.95:6204/live/Abas/Abas/10383.ts
 http://194.88.107.95:6204/live/Abas/Abas/10636.ts
 #EXTINF:-1,Us- TSN 2 HD
 http://194.88.107.95:6204/live/Abas/Abas/10635.ts
-#EXTINF:-1,Us- TSN 3 HD
+#EXTINF:-1,https://cdns.abclocal.go.com/assets/news/wabc/images/logos/default_800x450.jpg Us- TSN 3 HD
 http://194.88.107.95:6204/live/Abas/Abas/10634.ts
 #EXTINF:-1,Us- TSN 4 HD
 http://194.88.107.95:6204/live/Abas/Abas/10633.ts
