@@ -14,7 +14,7 @@ http://192.168.1.163:5004/auto/v20.1
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA", DC|WASHINGTON|CW
 http://192.168.1.163:5004/auto/v50.1
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg"group-title="USA, BOUNCE
-http://192.168.1.163:5004/auto/v2.3
+http://192.168.1.163:5004/auto/v66.2
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA", COZI TV
 http://192.168.1.163:5004/auto/v4.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
