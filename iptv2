@@ -1,194 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdns.abclocal.go.com/assets/news/wabc/images/logos/default_800x450.jpg" group-title="USA",ABC 7
-https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/A/ABC-Red-01.png" group-title="USA",ABC 
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTU0MzYwOTg5NTk1MjE1MjE0/abc-news-logo-resized-bc.jpg" group-title="USA",ABC News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="USA",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-1)
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="USA",Animal Planet (Opt-2)
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axs.tv/ui/images/hdnet_programs/fbthumb_axstv_20140224.png" group-title="USA",AXS TV 
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="USA SPORTS",Big Ten Network
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.marketwire.com/attachments/201511/14251_caranddriverlogo.jpg" group-title="USA",Cars
-http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.licensingcorner.com/wp-content/uploads/2017/08/CN.png" group-title="USA",Cartoon Network (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS 
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="USA",CBS News (Opt-2)
-https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="USA",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="USA",Comet TV
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="USA",Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel 
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="USA",District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="USA",ESPN 2 (Opt-1)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="USTV" tvg-name="ESPN 2" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="USA",ESPN 2 (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies 
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/800px-Fox_Crime_logo.svg.png" group-title="USA",Fox Crime
-http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="USA",Fox Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="USA",Fox Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png/revision/latest?cb=20160119140528" group-title="USA",Fox Premium Comedy
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="USA",Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="USA",Fox News Channel 
-http://163.172.15.141:9732/live?channelId=248&deviceMac=00:1a:79:47:98:09&uid=4331
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,Us- Fox sport 1 HD
-http://194.88.107.95:6204/live/Abas/Abas/10416.ts
-#EXTINF:-1,Us- Fox sport 2 HD
-http://194.88.107.95:6204/live/Abas/Abas/10415.ts
-#EXTINF:-1,Us- A&E US
-http://194.88.107.95:6204/live/Abas/Abas/10441.ts
-#EXTINF:-1,Us- ABC US
-http://194.88.107.95:6204/live/Abas/Abas/10440.ts
-#EXTINF:-1,Us- Animal Planet HD
-http://194.88.107.95:6204/live/Abas/Abas/10439.ts
-#EXTINF:-1,Us- Bein Sports
-http://194.88.107.95:6204/live/Abas/Abas/10646.ts
-#EXTINF:-1,Us- BET HD
-http://194.88.107.95:6204/live/Abas/Abas/10645.ts
-#EXTINF:-1,Us- Bloomberg US
-http://194.88.107.95:6204/live/Abas/Abas/10436.ts
-#EXTINF:-1,Us- Bravo HD
-http://194.88.107.95:6204/live/Abas/Abas/10435.ts
-#EXTINF:-1,Us- Cartoon Network US
-http://194.88.107.95:6204/live/Abas/Abas/10434.ts
-#EXTINF:-1,Us- CBS Sport HD
-http://194.88.107.95:6204/live/Abas/Abas/10433.ts
-#EXTINF:-1,Us- CBS US
-http://194.88.107.95:6204/live/Abas/Abas/10432.ts
-#EXTINF:-1,Us- CINEMAX HD
-http://194.88.107.95:6204/live/Abas/Abas/10431.ts
-#EXTINF:-1,Us- CNBC US
-http://194.88.107.95:6204/live/Abas/Abas/10429.ts
-#EXTINF:-1,Us- CNN US HD
-http://194.88.107.95:6204/live/Abas/Abas/10428.ts
-#EXTINF:-1,Us- Discovery Channel US HD
-http://194.88.107.95:6204/live/Abas/Abas/10424.ts
-#EXTINF:-1,Us- DISCOVERY FAMILY
-http://194.88.107.95:6204/live/Abas/Abas/10423.ts
-#EXTINF:-1,Us- Discovery Investigation
-http://194.88.107.95:6204/live/Abas/Abas/10422.ts
-#EXTINF:-1,Us- Discovery Science US HD
-http://194.88.107.95:6204/live/Abas/Abas/10421.ts
-#EXTINF:-1,Us- Disney Channel US
-http://194.88.107.95:6204/live/Abas/Abas/10420.ts
-#EXTINF:-1,Us- Disney Junior US
-http://194.88.107.95:6204/live/Abas/Abas/10419.ts
-#EXTINF:-1,Us- FX HD
-http://194.88.107.95:6204/live/Abas/Abas/10414.ts
-#EXTINF:-1,Us- GSN HD
-http://194.88.107.95:6204/live/Abas/Abas/10412.ts
-#EXTINF:-1,Us- HBO Comedy HD
-http://194.88.107.95:6204/live/Abas/Abas/10411.ts
-#EXTINF:-1,Us- HBO Signature
-http://194.88.107.95:6204/live/Abas/Abas/10410.ts
-#EXTINF:-1,Us- HBO US HD
-http://194.88.107.95:6204/live/Abas/Abas/10409.ts
-#EXTINF:-1,Us- HBO ZONE HD
-http://194.88.107.95:6204/live/Abas/Abas/10408.ts
-#EXTINF:-1,Us- HGTV HD
-http://194.88.107.95:6204/live/Abas/Abas/10407.ts
-#EXTINF:-1,Us- History
-http://194.88.107.95:6204/live/Abas/Abas/10406.ts
-#EXTINF:-1,Us- History HD US
-http://194.88.107.95:6204/live/Abas/Abas/10405.ts
-#EXTINF:-1,Us- Life Time HD
-http://194.88.107.95:6204/live/Abas/Abas/10404.ts
-#EXTINF:-1,Us- MTV HD US
-http://194.88.107.95:6204/live/Abas/Abas/10403.ts
-#EXTINF:-1,Us- Nat Geo Wild HD US
-http://194.88.107.95:6204/live/Abas/Abas/10402.ts
-#EXTINF:-1,Us- NatGeo HD USA
-http://194.88.107.95:6204/live/Abas/Abas/10401.ts
-#EXTINF:-1,Us- NBA HD
-http://194.88.107.95:6204/live/Abas/Abas/10400.ts
-#EXTINF:-1,Us- NBC EAST HD
-http://194.88.107.95:6204/live/Abas/Abas/10399.ts
-#EXTINF:-1,Us- NBCSN HD
-http://194.88.107.95:6204/live/Abas/Abas/10398.ts
-#EXTINF:-1,Us- NEWS 12
-http://194.88.107.95:6204/live/Abas/Abas/10643.ts
-#EXTINF:-1,Us- Nick Junior US
-http://194.88.107.95:6204/live/Abas/Abas/10397.ts
-#EXTINF:-1,Us- Nick Toons US
-http://194.88.107.95:6204/live/Abas/Abas/10396.ts
-#EXTINF:-1,Us- OWN HD
-http://194.88.107.95:6204/live/Abas/Abas/10395.ts
-#EXTINF:-1,Us- PAC-12 Arizona HD
-http://194.88.107.95:6204/live/Abas/Abas/10642.ts
-#EXTINF:-1,Us- PAC-12 Bay Area HD
-http://194.88.107.95:6204/live/Abas/Abas/10641.ts
-#EXTINF:-1,Us- PAC-12 Los Angeles HD
-http://194.88.107.95:6204/live/Abas/Abas/10640.ts
-#EXTINF:-1,Us- PAC-12 Mountain HD-
-http://194.88.107.95:6204/live/Abas/Abas/10639.ts
-#EXTINF:-1,Us- PAC-12 Oregon HD
-http://194.88.107.95:6204/live/Abas/Abas/10638.ts
-#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
-http://194.88.107.95:6204/live/Abas/Abas/10393.ts
-#EXTINF:-1,Us- SLICE HD
-http://194.88.107.95:6204/live/Abas/Abas/10392.ts
-#EXTINF:-1,Us- Starz HD US
-http://194.88.107.95:6204/live/Abas/Abas/10390.ts
-#EXTINF:-1,Us- STARZ KIDS & Family HD
-http://194.88.107.95:6204/live/Abas/Abas/10389.ts
-#EXTINF:-1,Us- Syfy HD
-http://194.88.107.95:6204/live/Abas/Abas/10388.ts
-#EXTINF:-1,Us- SyFy HD USA
-http://194.88.107.95:6204/live/Abas/Abas/10387.ts
-#EXTINF:-1,Us- TBS USA
-http://194.88.107.95:6204/live/Abas/Abas/10386.ts
-#EXTINF:-1,Us- TLC HD
-http://194.88.107.95:6204/live/Abas/Abas/10385.ts
-#EXTINF:-1,Us- TNT US
-http://194.88.107.95:6204/live/Abas/Abas/10384.ts
-#EXTINF:-1,Us- TRU TV HD
-http://194.88.107.95:6204/live/Abas/Abas/10383.ts
-#EXTINF:-1,Us- TSN 1 HD
-http://194.88.107.95:6204/live/Abas/Abas/10636.ts
-#EXTINF:-1,Us- TSN 2 HD
-http://194.88.107.95:6204/live/Abas/Abas/10635.ts
-#EXTINF:-1,https://cdns.abclocal.go.com/assets/news/wabc/images/logos/default_800x450.jpg Us- TSN 3 HD
-http://194.88.107.95:6204/live/Abas/Abas/10634.ts
-#EXTINF:-1,Us- TSN 4 HD
-http://194.88.107.95:6204/live/Abas/Abas/10633.ts
-#EXTINF:-1,Us- TSN 5 HD
-http://194.88.107.95:6204/live/Abas/Abas/10632.ts
-#EXTINF:-1,Us- TV Land HD
-http://194.88.107.95:6204/live/Abas/Abas/10382.ts
-#EXTINF:-1,Us- VH1 HD US
-http://194.88.107.95:6204/live/Abas/Abas/10380.ts
-#EXTINF:-1,Us- Viceland TV
-http://194.88.107.95:6204/live/Abas/Abas/10379.ts
-#EXTINF:-1,Us- WE HD
-http://194.88.107.95:6204/live/Abas/Abas/10378.ts
-#EXTINF:-1,Us- Weather channel
-http://194.88.107.95:6204/live/Abas/Abas/10377.ts
-#EXTINF:-1,Us- WWE HD
-http://194.88.107.95:6204/live/Abas/Abas/10376.ts
-
+#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",DC|WASHINGTON|NBC-WRC
+http://192.168.1.163:5004/auto/v4.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
+http://192.168.1.163:5004/auto/v2.1?transcode=mobile
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA", DC|WASHINGTON|FOX5 HD-WTTG 
+http://192.168.1.163:5004/auto/v5.1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", DC|WASHINGTON|ABC
+http://192.168.1.163:5004/auto/v7.1
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA", CBS
+http://192.168.1.163:5004/auto/v9.1
+#EXTINF:-1 tvg-logo="https://media.fox5DC.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg",DC|WASHINGTON|FOX 5 PLUS
+http://192.168.1.163:5004/auto/v20.1
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA", DC|WASHINGTON|CW
+http://192.168.1.163:5004/auto/v50.1
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg"group-title="USA, BOUNCE
+http://192.168.1.163:5004/auto/v2.3
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA", COZI TV
+http://192.168.1.163:5004/auto/v4.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
+http://192.168.1.163:5004/auto/v5.3
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA", Court TV
+http://192.168.1.163:5004/auto/v54.1
+#EXTINF:-1 tvg-logo="http://bobpaff.com/wp-content/uploads/2011/01/fox_45_Baltimore.jpg",group-title="USA",FOX 45 BALTIMORE
+http://192.168.1.163:5004/auto/v45.1
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png",group-title="USA",PBS KIDS
+http://192.168.1.163:5004/auto/v26.3
+#EXTINF:-1,tvg-logo="https://businesspost.ng/wp-content/uploads/2017/06/telemundo.jpg",TELEMONDO HD
+http://192.168.1.163:5004/auto/v44.1
+#EXTINF:-1,tvg-logo="https://364bb1b8faea5923fe26-d1e1eff15c981e296a91bd09c3814b40.ssl.cf5.rackcdn.com/global/iOS_Retina.png",group-title="USA",ION TV
+http://192.168.1.163:5004/auto/v66.1
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/834817242256642048/XANZXyfO_400x400.jpg",group-title="USA",CHARGE! HD
+http://192.168.1.163:5004/auto/v54.4
+#EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",group-title="USA",Court TV
+http://192.168.1.163:5004/auto/v66.3
