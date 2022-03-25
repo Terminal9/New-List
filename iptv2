@@ -19,7 +19,7 @@ http://192.168.1.163:5004/auto/v66.2
 http://192.168.1.163:5004/auto/v4.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
 http://192.168.1.163:5004/auto/v5.3
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA", Court TV
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40228/s111043_h3_aa.png",group-title="USA", Court TV
 http://192.168.1.163:5004/auto/v54.1
 #EXTINF:-1 tvg-logo="http://bobpaff.com/wp-content/uploads/2011/01/fox_45_Baltimore.jpg",group-title="USA", FOX 45 BALTIMORE
 http://192.168.1.163:5004/auto/v45.1
@@ -29,7 +29,12 @@ http://192.168.1.163:5004/auto/v26.3
 http://192.168.1.163:5004/auto/v44.1
 #EXTINF:-1,tvg-logo="https://364bb1b8faea5923fe26-d1e1eff15c981e296a91bd09c3814b40.ssl.cf5.rackcdn.com/global/iOS_Retina.png",group-title="USA", ION TV
 http://192.168.1.163:5004/auto/v66.1
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/834817242256642048/XANZXyfO_400x400.jpg",group-title="USA", CHARGE! HD
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/109901/s102148_h3_aa.png",group-title="USA", CHARGE! HD
 http://192.168.1.163:5004/auto/v54.4
-#EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",group-title="USA", Court TV
-http://192.168.1.163:5004/auto/v66.3
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51947/s70248_h3_aa.png",group-title="USA", Antenna TV
+http://192.168.1.163:5004/auto/v50.2
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48609/s97051_h3_aa.png",group-title="USA", Comet
+http://192.168.1.163:5004/auto/v54.3
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40229/s92091_h3_aa.png",group-title="USA", Laff
+http://192.168.1.163:5004/auto/v66.4
+
