@@ -20,7 +20,7 @@ http://192.168.1.163:5004/auto/v4.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
 http://192.168.1.163:5004/auto/v5.3
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40228/s111043_h3_aa.png",group-title="USA", Court TV
-http://192.168.1.163:5004/auto/v54.1
+http://192.168.1.163:5004/auto/v36.2
 #EXTINF:-1 tvg-logo="http://bobpaff.com/wp-content/uploads/2011/01/fox_45_Baltimore.jpg",group-title="USA", FOX 45 BALTIMORE
 http://192.168.1.163:5004/auto/v45.1
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png",group-title="USA", PBS KIDS
@@ -35,6 +35,12 @@ http://192.168.1.163:5004/auto/v54.4
 http://192.168.1.163:5004/auto/v50.2
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48609/s97051_h3_aa.png",group-title="USA", Comet
 http://192.168.1.163:5004/auto/v54.3
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40229/s92091_h3_aa.png",group-title="USA", Laff
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40229/s92091_h3_aa.png",group-title="USA", Laff TV
 http://192.168.1.163:5004/auto/v66.4
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50339/s51307_h3_aa.png",group-title="USA", My TV
+http://192.168.1.163:5004/auto/v45.2
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA", CW Baltimore
+http://192.168.1.163:5004/auto/v54.1
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90173/s82563_h3_aa.png",group-title="USA", Get TV
+http://192.168.1.163:5004/auto/v14.2
 
