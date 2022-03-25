@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",DC|WASHINGTON|NBC-WRC
+#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",DC|WASHINGTON| NBC-WRC
 http://192.168.1.163:5004/auto/v4.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.1.163:5004/auto/v2.1?transcode=mobile
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA", DC|WASHINGTON|FOX5 HD-WTTG 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA",DC|WASHINGTON| FOX5 HD-WTTG 
 http://192.168.1.163:5004/auto/v5.1 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", DC|WASHINGTON|ABC
 http://192.168.1.163:5004/auto/v7.1
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA", CBS
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA",DC|WASHINGTON| CBS
 http://192.168.1.163:5004/auto/v9.1
 #EXTINF:-1 tvg-logo="https://media.fox5DC.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg",DC|WASHINGTON|FOX 5 PLUS
 http://192.168.1.163:5004/auto/v20.1
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA", DC|WASHINGTON|CW
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png"group-title="USA",DC|WASHINGTON|CW
 http://192.168.1.163:5004/auto/v50.1
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg"group-title="USA, BOUNCE
 http://192.168.1.163:5004/auto/v66.2
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA",COZI TV
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA",DC|WASHINGTON| COZI TV
 http://192.168.1.163:5004/auto/v4.2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
 http://192.168.1.163:5004/auto/v5.3
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",group-title="USA",Court TV
 http://192.168.1.163:5004/auto/v54.1
