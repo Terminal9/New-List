@@ -3,7 +3,7 @@
 http://192.168.1.163:5004/auto/v4.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.1.163:5004/auto/v2.1?transcode=mobile
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/20367/s28719_h3_aa.png"group-title="USA",DC |WASHINGTON| FOX5 HD-WTTG 
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/bones/images/f/f8/FOX_logo.png"group-title="USA",DC |WASHINGTON| FOX5 HD-WTTG 
 http://192.168.1.163:5004/auto/v5.1 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", DC|WASHINGTON|ABC
 http://192.168.1.163:5004/auto/v7.1
