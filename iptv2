@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA" DC |WASHINGTON| NBC-WRC
+#EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA", DC |WASHINGTON| NBC-WRC
 http://192.168.1.163:5004/auto/v4.1?transcode=mobile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", MD |BALTIMORE| ABC
 http://192.168.1.163:5004/auto/v2.1?transcode=mobile
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/bones/images/f/f8/FOX_logo.png"group-title="USA" DC |WASHINGTON| FOX5 HD-WTTG 
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/bones/images/f/f8/FOX_logo.png"group-title="USA", DC |WASHINGTON| FOX5 HD-WTTG 
 http://192.168.1.163:5004/auto/v5.1?transcode=mobile 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", DC|WASHINGTON| ABC
 http://192.168.1.163:5004/auto/v7.1?transcode=mobile
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA" DC |WASHINGTON| CBS
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA", DC |WASHINGTON| CBS
 http://192.168.1.163:5004/auto/v9.1?transcode=mobile
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34427/s34427_h3_aa.png" group-title="USA" DC |WASHINGTON| FOX 5 PLUS
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34427/s34427_h3_aa.png" group-title="USA", DC |WASHINGTON| FOX 5 PLUS
 http://192.168.1.163:5004/auto/v20.1?transcode=mobile
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png"group-title="USA" DC |WASHINGTON| CW
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png"group-title="USA", DC |WASHINGTON| CW
 http://192.168.1.163:5004/auto/v50.1?transcode=mobile
