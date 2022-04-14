@@ -1,46 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",DC |WASHINGTON| NBC-WRC
-http://192.168.1.163:5004/auto/v4.1
+http://192.168.1.163:5004/auto/v4.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.1.163:5004/auto/v2.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/bones/images/f/f8/FOX_logo.png"group-title="USA",DC |WASHINGTON| FOX5 HD-WTTG 
-http://192.168.1.163:5004/auto/v5.1 
+http://192.168.1.163:5004/auto/v5.1?transcode=mobile 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", DC|WASHINGTON|ABC
-http://192.168.1.163:5004/auto/v7.1
+http://192.168.1.163:5004/auto/v7.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA",DC |WASHINGTON| CBS
-http://192.168.1.163:5004/auto/v9.1
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34427/s34427_h3_aa.png" group-title="USA",DC |WASHINGTON|FOX 5 PLUS
-http://192.168.1.163:5004/auto/v20.1
+http://192.168.1.163:5004/auto/v9.1?transcode=mobile
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34427/s34427_h3_aa.png" group-title="USA",DC |WASHINGTON| FOX 5 PLUS
+http://192.168.1.163:5004/auto/v20.1?transcode=mobile
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png"group-title="USA",DC |WASHINGTON| CW
-http://192.168.1.163:5004/auto/v50.1
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/43981/s73067_h3_aa.png"group-title="USA, BOUNCE
-http://192.168.1.163:5004/auto/v66.2
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA", DC|WASHINGTON| COZI TV
-http://192.168.1.163:5004/auto/v4.2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8osPUfR.png"group-title="USA", MeTV
-http://192.168.1.163:5004/auto/v5.3
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40228/s111043_h3_aa.png"group-title="USA", Court TV
-http://192.168.1.163:5004/auto/v36.2
-#EXTINF:-1 tvg-logo="http://bobpaff.com/wp-content/uploads/2011/01/fox_45_Baltimore.jpg"group-title="USA", FOX 45 BALTIMORE
-http://192.168.1.163:5004/auto/v45.1
-#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png"group-title="USA", PBS KIDS
-http://192.168.1.163:5004/auto/v26.3
-#EXTINF:-1,tvg-logo="https://businesspost.ng/wp-content/uploads/2017/06/telemundo.jpg"group-title="USA",TELEMONDO HD
-http://192.168.1.163:5004/auto/v44.1
-#EXTINF:-1,tvg-logo="https://364bb1b8faea5923fe26-d1e1eff15c981e296a91bd09c3814b40.ssl.cf5.rackcdn.com/global/iOS_Retina.png"group-title="USA", ION TV
-http://192.168.1.163:5004/auto/v66.1
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/109901/s102148_h3_aa.png"group-title="USA", CHARGE! HD
-http://192.168.1.163:5004/auto/v54.4
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51947/s70248_h3_aa.png"group-title="USA", Antenna TV
-http://192.168.1.163:5004/auto/v50.2
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/48609/s97051_h3_aa.png"group-title="USA", Comet
-http://192.168.1.163:5004/auto/v54.3
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40229/s92091_h3_aa.png"group-title="USA", Laff TV
-http://192.168.1.163:5004/auto/v66.4
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50339/s51307_h3_aa.png"group-title="USA", My TV
-http://192.168.1.163:5004/auto/v45.2
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png"group-title="USA", CW Baltimore
-http://192.168.1.163:5004/auto/v54.1
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90173/s82563_h3_aa.png"group-title="USA", Get TV
-http://192.168.1.163:5004/auto/v14.2
-
+http://192.168.1.163:5004/auto/v50.1?transcode=mobile
